@@ -1,0 +1,34 @@
+/* Write your CSS here */
+
+.appointment-cont {
+  border: 1px solid #b5b7c4;
+  border-radius: 8px;
+  padding: 10px;
+  margin-right: 15px;
+  margin-bottom: 15px;
+  display: flex;
+}
+
+.appointment-title {
+  font-size: 13px;
+  color: #171f46;
+  font-weight: 700;
+  font-family: 'Roboto';
+}
+
+.appointment-date {
+  font-size: 13px;
+  color: #b5b7c4;
+  font-family: 'Roboto';
+}
+
+.star-img {
+  height: 15px;
+  width: 15px;
+  margin-left: 5px;
+}
+
+.star-btn {
+  border: none;
+  background-color: transparent;
+}
